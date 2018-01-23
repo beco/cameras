@@ -46,7 +46,7 @@ Y una de cada cuatro personas no usa más cámaras que la del teléfono
 
 ![](images/img_6.png)
 
-Poca gente ha tomado un curso de fotografía (72%) pero en general están interesados en tomar uno (60%)
+Poca gente ha tomado un curso de fotografía (72%) pero en general están interesados en tomar uno (60%).
 
 En marcas de cámaras "grandes" hay pocas sorpresas. Como primera y/o única cámara se tiene
 - Canon 43%
@@ -70,4 +70,4 @@ Dueños de X que **NO** repetirían misma marca:
 - GoPro 19%
 - Samsung 50%
 
-Los datos están en http://github.com/beco/cameras. Con esa información iré sacando más factlets. Cualquier duda/sugerencia, saben dónde encontrarme.
+Los datos están en [github.com/beco/cameras](http://github.com/beco/cameras). Con esa información iré sacando más factlets. Cualquier duda/sugerencia, [saben dónde encontrarme](http://about.me/beco).
